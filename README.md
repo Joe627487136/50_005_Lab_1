@@ -1,4 +1,3 @@
-# 50_005_Lab_1
-
-School project
-SUTD_50.005 Lab1
+## 50.005 Lab1
+This is a school project
+SUTD 50.005 Lab
